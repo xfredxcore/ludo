@@ -17,9 +17,9 @@ Auditors Present: 1 human, 1 very judgmental cat
 
 ludo is built on three axioms
 
-1. Not every command should run
-2. Chance is a feature, not a bug
-3. Im like documentations.
+1. Not every command should run.
+2. Chance is a feature, not a bug.
+3. Im like documentations..
 
 ## 2. Installation
 
@@ -28,15 +28,15 @@ Do not rush installation. Installation is a ritual.
 Step 1. Verify you have a POSIX compliant shell.
 Step 2. Verify gcc is at least here.
 Step 3. Create directory ~/.local/bin if wtf why do you haven’t it??
-Step 4. Place ludo.c in a clean directory Step 5. Compile it
+Step 4. Place ludo.c in a clean directory Step 5. Compile it.
 
 gcc ludo.c -o ~/.local/bin/ludo
 
-Step 6. Run ludo -v
-Step 7. Observe output. Meditate for 11 seconds
-Step 8. Run ludo -c
-Step 9. Accept the default chance of 50 percent
-Step 10. Proceed to usage
+Step 6. Run ludo -v.
+Step 7. Observe output. Meditate for 11 seconds.
+Step 8. Run ludo -c.
+Step 9. Accept the default chance of 50 percent.
+Step 10. Proceed to usage.
 
 Deviation from these steps voids the implied warranty of fun.
 
@@ -45,14 +45,13 @@ Deviation from these steps voids the implied warranty of fun.
 ### 4.1 Flags
 
 -v
-Show version. Output includes bold ANSI escape sequence, version string, license identifier, author name. Exit code 0.
+Show version. 
 
 -c
-Show current chance. Output format is exactly: Current chance: NN% 
-Exit code 0.
+Show current chance.
 
 -h
-Show help. Help text is 217 characters long including newlines. Exit code 0.
+Show help.
 
 ### 4.2 Built in Commands
 
