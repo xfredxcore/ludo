@@ -25,10 +25,10 @@ ludo is built on three axioms
 
 Do not rush installation. Installation is a ritual.
 
-Step 1. Verify you have a POSIX compliant shell
-Step 2. Verify gcc is at least here
+Step 1. Verify you have a POSIX compliant shell.
+Step 2. Verify gcc is at least here.
 Step 3. Create directory ~/.local/bin if wtf why do you haven’t it??
-Step 4. Place ludo.c in a clean directory Step 5. Compile with exact flags
+Step 4. Place ludo.c in a clean directory Step 5. Compile it
 
 gcc ludo.c -o ~/.local/bin/ludo
 
