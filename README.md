@@ -68,3 +68,6 @@ Any token that is not -v, -c, -h, roll, or set is treated as external command. A
 
 Funny Example: ludo sudo rm -rf / —no-preserve-root
 
+
+UPD: And yes, "ludo" cuz of "ludomania"
+
